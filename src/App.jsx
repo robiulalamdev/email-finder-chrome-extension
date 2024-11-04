@@ -46,9 +46,6 @@ function App() {
                 className="flex items-center justify-between px-4 py-3 hover:bg-gray-100 transition duration-150"
               >
                 <span className="text-gray-700">{email}</span>
-                <button className="text-blue-500 hover:text-blue-700 font-medium">
-                  Details
-                </button>
               </li>
             ))}
           </ul>
